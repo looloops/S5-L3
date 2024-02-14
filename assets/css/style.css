@@ -1,0 +1,15 @@
+.card {
+    background-color: antiquewhite;
+    border-radius: 27px;
+    width: 400px;
+    overflow: hidden;
+}
+
+.card img {
+    width: 100%;
+}
+
+.description {
+    display: flex;
+    justify-content: space-between;
+}
